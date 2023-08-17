@@ -1,8 +1,13 @@
 Laravel React Blog Application 
+
 Hello,I am Adnan hossain khan,I am submitting my laravel-react-blog Website.
 There are two files in folder .One is for Backend one is for frontend.
+
 1.Laravel-react-blog folder is the backend laravel folder.
 2.Laravel-react-blog-frontend is the Frontend React folder.
+
+
+
 For backend Part-
 1.Run Composer dependencies.
 2.Run migration and run php artisan db:seed for seeding roles.
@@ -15,6 +20,9 @@ http://127.0.0.1:8000/admin/dashboard.
 another section is Polling where admin can start the polls.There are other option such as
 update,delete the polls by admin but unfortunately I ran out of time.You can see polls routes in
 the web.php file.
+
+
+
 For Frontend Part
 1.To run the frontend server you need to run npm run dev.The server will open
 http://localhost:5173. (Note:There are cors policy issues so you need to run serve on same
